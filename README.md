@@ -2,7 +2,7 @@
 
 Web Development Bootcamp by Dr. Angela Yu, Developer and Lead Instructor
 
-Course Syllabus:
+**Course Syllabus:**
 
 Front-End Web Development  
 HTML 5  
