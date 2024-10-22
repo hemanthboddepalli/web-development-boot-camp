@@ -1,4 +1,4 @@
-# web-development-boot-camp
+# web-development-bootcamp
 
 Web Development Bootcamp by Dr. Angela Yu, Developer and Lead Instructor
 
