@@ -1,3 +1,3 @@
-# web-development-boot-camp
+# web-development-bootcamp
 
-Web Development Boot Camp
+Web Development Bootcamp
